@@ -1,8 +1,8 @@
 +++
 author = "Hugo Authors"
-title = "Coming Soon"
-date = "2021-06-11"
-description = "This is just a sample, More Coming Soon."
+title = "Markdown Syntax Guide"
+date = "2019-03-11"
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
     "css",
@@ -16,5 +16,9 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+<!--more-->
 
+## Headings
 
+The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
