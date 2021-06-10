@@ -1,6 +1,6 @@
 
 baseURL = "http://www.ananthan.co"
-title = "johndoe"
+title = "Ananthan"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,8 +13,8 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "John Doe"
-description = "John Doe's personal website"
+author = "Anandhakrishnan V S"
+description = "Ananthan's personal website"
 keywords = "blog,developer,personal"
 info = "Full Stack DevOps and Magician"
 avatarURL = "images/avatar.jpg"
