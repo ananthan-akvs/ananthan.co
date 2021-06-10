@@ -2,16 +2,25 @@
 author = "Hugo Authors"
 title = "Coming Soon"
 date = "2021-06-11"
+description = "Sample article. "
+tags = [
+    "Sample",
+    "Post",
+]
+categories = [
+    "themes",
+    "syntax",
+]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is just a sample. More Coming Soon.
+THIS IS JUST A SAMPLE, MORE COMING SOON.
 <!--more-->
 
-## Read a quote
+## Headings
 
-We only see half,
-of People,
-of The World,
-of Ourselves.
+WE ONLY SEE HALF,
+  OF PEOPLE,
+  OF THE WORLD,
+  OF OURSELVES.
