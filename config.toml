@@ -22,7 +22,7 @@ avatarURL = "images/avatar.jpg"
 footerContent = "You're never wrong to do the right thing"
 dateFormat = "January 2, 2006"
 hideFooter = false
-hideCredits = false
+hideCredits = true
 hideCopyright = false
 since = 2021
 # Git Commit in Footer, uncomment the line below to enable it
