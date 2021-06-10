@@ -1,5 +1,5 @@
 +++
-title = "Coming Soon"
+title = "Sample Post"
 slug = "first"
 date = "2021-06-11"
 +++
