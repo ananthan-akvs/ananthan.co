@@ -9,9 +9,9 @@ aliases = ["migrate-from-jekyl"]
 This is just a sample. More Coming Soon.
 <!--more-->
 
-## Headings
+## Read a quote
 
-We only see half'
+We only see half,
 of People,
 of The World,
 of Ourselves.
