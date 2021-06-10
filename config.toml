@@ -16,7 +16,7 @@ enableEmoji = true
 author = "Anandhakrishnan V S"
 description = "Ananthan's personal website"
 keywords = "blog,developer,personal"
-info = "Full Stack DevOps and Magician"
+info = "Community Fellow - TinkerHub"
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = "You're never wrong to do the right thing"
@@ -103,13 +103,13 @@ author = "authors"
 [[params.social]]
 name = "Github"
 icon = "fa fa-github"
-weight = 3
+weight = 2
 url = "https://github.com/ananthan-akvs/"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram"
-weight = 2
+weight = 3
 url = "https://www.instagram.com/ananthan.akvs/"
 
 [[params.social]]
@@ -129,6 +129,13 @@ name = "Medium"
 icon = "fa fa-medium"
 weight = 5
 url = "https://medium.com/@ananthan.akvs"
+
+[[params.social]]
+name = "Facebook"
+icon = "fa fa-facebook"
+weight = 6
+url = "https://www.facebook.com/akvs.chirad"
+
 
 
 [languages.en]
