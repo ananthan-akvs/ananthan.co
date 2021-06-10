@@ -150,3 +150,8 @@ url = "about/"
 name = "Blogs"
 weight = 2
 url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 3
+url = "contact/"
