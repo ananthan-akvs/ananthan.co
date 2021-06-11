@@ -1,3 +1,7 @@
++++ author = "Hugo Authors" title = "Temp" date = "2021-03-11" description = "Temp file"
+
+series = ["Themes Guide"] aliases = ["migrate-from-jekyl"] +++
+
 # Getting Started
 
 👋 Welcome to Notion!
