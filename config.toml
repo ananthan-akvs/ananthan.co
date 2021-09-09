@@ -116,7 +116,7 @@ url = "https://www.instagram.com/ananthan.akvs/"
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 4
-url = "https://twitter.com/Ananthan-akvs/"
+url = "https://twitter.com/Ananthan_akvs/"
 
 [[params.social]]
 name = "LinkedIn"
