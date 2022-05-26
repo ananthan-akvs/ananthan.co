@@ -1,6 +1,6 @@
 
-baseURL = "http://www.ananthan.co"
-title = "Anandhakrishnan V S"
+baseURL = "http://www.akvs.me"
+title = "akvs"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,7 +13,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Anandhakrishnan V S"
+author = "Anandha Krishnan V S"
 description = "Ananthan's personal website"
 keywords = "blog,developer,personal"
 info = "Operations - ClusterDev | Fellow - TinkerHub"
