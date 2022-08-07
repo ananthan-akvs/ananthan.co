@@ -5,4 +5,4 @@ slug = "contact"
 
 Contact me;
 
-Email: mail@akvs.me
+Email: mail@ananthan.co
