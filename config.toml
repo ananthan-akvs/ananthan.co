@@ -1,6 +1,6 @@
 
-baseURL = "http://www.akvs.me"
-title = "akvs"
+baseURL = "http://www.ananthan.co"
+title = "AKVS"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -16,7 +16,7 @@ enableEmoji = true
 author = "Anandha Krishnan V S"
 description = "Ananthan's personal website"
 keywords = "blog,developer,personal"
-info = "Operations - ClusterDev | Fellow - TinkerHub"
+info = "Operations - ClusterDev | Organizer - GDG Cochin | Fellow - TinkerHub"
 avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
 footerContent = "You're never wrong to do the right thing"
