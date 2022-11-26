@@ -1,0 +1,137 @@
+body {
+	background-color: #080808;
+}
+
+@media only screen and (min-width: 600px) {
+	.nav-items-gap {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		padding: 0px;
+		gap: 3rem;
+	}
+}
+
+.navbar-dark {
+	background-color: #1B1B1B;
+}
+
+.ibm-font {
+	font-family: 'IBM Plex Mono', monospace;
+}
+
+.raleway-font {
+	font-family: 'Raleway', sans-serif;
+}
+
+.ananthan-intro {
+	color: #9C9C9C;
+}
+
+.catchup-btn {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 1rem 3rem;
+	gap: 10px;
+	font-weight: 700;
+	background: #3F8E00;
+	border: 1px solid #62BA1B;
+	color: #FFFFFF;
+	box-shadow: 0px 8px 30px rgba(63, 142, 0, 0.5);
+	border-radius: 4px;
+	text-decoration: none;
+}
+
+.catchup-btn:hover {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 1rem 3rem;
+	gap: 10px;
+	font-weight: 700;
+	background: #3F8E00;
+	border: 1px solid #62BA1B;
+	color: #ffffffad;
+	box-shadow: 0px 8px 30px rgba(83, 162, 10, 0.5);
+	border-radius: 4px;
+	text-decoration: none;
+}
+
+.about-div-left {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	padding: 0px;
+	gap: 1rem;
+}
+
+.about-div-left-inner {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
+	gap: 0rem;
+}
+
+.akvs-img {
+	border-radius: 100%;
+	width: 70%;
+}
+
+.foot-companies {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
+	gap: 1rem;
+	width: 100%;
+}
+
+.companies-float-bottom {
+	/* position: fixed; */
+}
+
+.company-div {
+	display: flex;
+	width: 100%;
+	justify-content: space-around;
+}
+
+@media only screen and (max-width: 600px) {
+	.company-div {
+		display: block;
+		width: 100%;
+		align-items: center;
+	}
+}
+
+.worked-with-font {
+	color: #ffffff;
+}
+
+.company-logo {
+	border: 1px solid #1B1B1B;
+	border-radius: 6px;
+	padding: .5rem;
+	max-height: 3rem;
+	width: 100%;
+	margin: 1rem, 0rem, 1rem, 0rem;
+}
+
+@media only screen and (min-width: 600px) {
+	.foot-companies {
+		position: absolute;
+		bottom: 0;
+		margin-bottom: 5rem;
+	}
+
+	.align-center-vh{
+		position: absolute;
+		top: 45%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		width: 75%;
+	}
+}
